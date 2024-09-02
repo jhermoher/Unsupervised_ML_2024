@@ -28,7 +28,7 @@ El proyecto utiliza los siguientes algoritmos de Aprendizaje de Máquina No Supe
 - Isolation Forest
 - One-Class SVM
 
-Para más detalles, refiérase al archivo ```submittals/metodologia.txt```.
+Para más detalles, refiérase al archivo ```submittals/metodologia.md```.
 
 
 ### RESULTADOS
