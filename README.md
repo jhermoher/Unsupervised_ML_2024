@@ -28,10 +28,10 @@ El proyecto hace uso de los siguientes algoritmos de Aprendizaje de Máquina No 
 - Isolation Forest
 - One-Class SVM
 
-Para mas detalles, refiérase al archivo ```cuadernos/metodologia.ipynb```.
+Para mas detalles, refiérase al archivo ```submittals/propuesta_inicial.pdf```.
 
 
 ### RESULTADOS
 _por completar_
 
-Los resultados de projecto se pueden consultar en el archivo ```cuadernos/resultados.ipynb```.
+Los resultados de projecto se pueden consultar en el archivo ```notebooks/resultados.ipynb```.
