@@ -5,7 +5,9 @@
 Este proyecto hace uso de algortimos de Aprendizaje de Máquina No Supervisado para la detección de anomalías en transacciones con tarjetas de crédito. Mediante la detección de patrones inusuales, se pretenden identificar actividades que potencialmente sean fraude financiero.
 
 ### TABLA DE CONTENIDO
-
+[DATOS](#datos)
+[METODOLOGÍA](#metodología)
+[RESULTADOS] (#resultados)
 
 ### DATOS
 La fuente de los datos usados en este proyecto se encuentra disponible en https://www.openml.org/d/1597.  
@@ -20,9 +22,9 @@ El proyecto hace uso de los siguientes algoritmos de Aprendizaje de Máquina No 
 - Isolation Forest
 - One-Class SVM
 
-Para mas detalles, refiérase al archivo $cuadernos/metodologia.ipynb$.
+Para mas detalles, refiérase al archivo ```cuadernos/metodologia.ipynb```.
 
 ### RESULTADOS
 _por completar_
 
-Los resultados de projecto se pueden consultar en el archivo $cuadernos/resultados.ipynb$.
+Los resultados de projecto se pueden consultar en el archivo ```cuadernos/resultados.ipynb``.
