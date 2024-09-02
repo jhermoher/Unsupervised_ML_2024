@@ -7,7 +7,7 @@ Mediante un análisis descriptivo de los datos, obtener previamente característ
 Respecto a preprocesamiento, estandarizar las variables requeridas, determinar el número de componentes de acuerdo con un porcentaje de varianza explicada, eliminar duplicaciones, balancear las clases, entre otros, que puedan aplicar para acondicionar los datos como prerrequisito para la implementación de los modelos.
 
 5.2 Implementación de los Modelos:
-Para la detección de anomal’as se escogieron preliminarmente, dos algoritmos de aprendizaje no supervisado: ISOLATION FOREST y ONE CLASS SVM.
+Para la detección de anomal’as se escogieron preliminarmente, dos algoritmos de aprendizaje no supervisado: ISOLATION FOREST y ONE CLASS SVM.
 
 El primero, se basa en el principio de que las anomalías son pocas y diferenciables, haciéndolas fáciles de identificar y aislar de las observaciones normales. Tiene ventajas al ser computacionalmente eficiente en bases de datos con una gran cantidad de dimensiones al no basarse en métricas de distancias o densidades. Una desventaja, es la selección adecuada del Parámetro de Contaminación para un modelo de predicción efectivo.
 
