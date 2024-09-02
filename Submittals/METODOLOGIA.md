@@ -14,7 +14,7 @@ El primero, se basa en el principio de que las anomalías son pocas y diferencia
 El segundo, se basa en el aprendizaje de una frontera de decisión hiperesférica que determina como anomalía las observaciones que se ubican fuera de ella. Al igual que el algoritmo ISOLATION FOREST, es eficiente en bases de datos con una gran cantidad de dimensiones, sin embargo, es exigente computacionalmente en bases de datos con numerosas observaciones, adem‡s de que su efectividad está supeditada a selección adecuada del kernel y sus par‡metros.
 
 5.3 Comparación del Desempeño de los Modelos:
-Para la comparaci—n de los modelos, o la determinación de un modelo conjunto, se determinan previamente las métricas adecuadas como PRECISION, RECALL, o F1-SCORE para medir el desempeño de estos. El análisis de las métricas junto con la curva ROC y el valor AUC ser‡n usadas para medir el desempeño de los modelos.
+Para la comparación de los modelos, o la determinación de un modelo conjunto, se determinan previamente las métricas adecuadas como PRECISION, RECALL, o F1-SCORE para medir el desempeño de estos. El análisis de las métricas junto con la curva ROC y el valor AUC ser‡n usadas para medir el desempeño de los modelos.
 
 5.4 Evaluación de los Modelos:
 La evaluación de los modelos se determinar‡ calculando el impacto financiero de predicciones incorrectas como el costo de falsos positivos (transacciones legítimas consideradas como fraude).
