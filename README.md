@@ -1,13 +1,16 @@
 # Unsupervised_ML_2024
 ## DETECCIÓN DE ANOMALIAS EN TRANSACCIONES DE TARJETAS DE CREDITO
 
+
 ### RESUMEN
 Este proyecto hace uso de algortimos de Aprendizaje de Máquina No Supervisado para la detección de anomalías en transacciones con tarjetas de crédito. Mediante la detección de patrones inusuales, se pretenden identificar actividades que potencialmente sean fraude financiero.
 
+
 ### TABLA DE CONTENIDO
-[DATOS](#datos)
-[METODOLOGÍA](#metodología)
-[RESULTADOS] (#resultados)
+- [DATOS](#datos)
+- [METODOLOGÍA](#metodología)
+- [RESULTADOS](#resultados)
+
 
 ### DATOS
 La fuente de los datos usados en este proyecto se encuentra disponible en https://www.openml.org/d/1597.  
@@ -17,12 +20,14 @@ La base de datos contiene transacciones hechas por medio de tarjetas  de crédit
 
 Para más detalles, refiérase al archivo ```data/README.md```
 
+
 ### METODOLOGÍA
 El proyecto hace uso de los siguientes algoritmos de Aprendizaje de Máquina No Supervisado:
 - Isolation Forest
 - One-Class SVM
 
 Para mas detalles, refiérase al archivo ```cuadernos/metodologia.ipynb```.
+
 
 ### RESULTADOS
 _por completar_
