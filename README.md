@@ -32,4 +32,4 @@ Para mas detalles, refiérase al archivo ```cuadernos/metodologia.ipynb```.
 ### RESULTADOS
 _por completar_
 
-Los resultados de projecto se pueden consultar en el archivo ```cuadernos/resultados.ipynb``.
+Los resultados de projecto se pueden consultar en el archivo ```cuadernos/resultados.ipynb```.
