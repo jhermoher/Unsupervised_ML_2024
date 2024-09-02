@@ -32,6 +32,6 @@ Para más detalles, refiérase al archivo ```submittals/metodologia.txt```.
 
 
 ### RESULTADOS
-El modelo logró una detección de anomalias del #% con un porcentaje de falsos positivos de tan solo #%. El impacto en el 
+El modelo logró una detección de anomalias del ##% con un porcentaje de falsos positivos de tan solo ##%.
 
 Los resultados de proyecto se pueden consultar en el archivo ```notebooks/resultados.ipynb```.
