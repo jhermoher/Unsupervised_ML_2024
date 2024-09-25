@@ -30,7 +30,7 @@ El proyecto utiliza los siguientes algoritmos de Aprendizaje de Máquina No Supe
 
 Para más detalles, refiérase al archivo ```submittals/metodologia.md```.
 
-Los reportes relacionados con la propuesta inicial y con el reporte final estan disponibles la carpeta ```submittal/```.
+Los reportes relacionados con la propuesta inicial y con el reporte final estan disponibles la carpeta ```submittals/```.
 
 
 ### RESULTADOS
