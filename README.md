@@ -13,7 +13,7 @@ Este proyecto hace uso de algoritmos de Aprendizaje de Máquina No Supervisado p
 
 
 ### DATOS
-La fuente de los datos usada en este proyecto se encuentra disponible en https://www.openml.org/d/1597.  
+La fuente de los datos usada en este proyecto se encuentra disponible en https://www.openml.org/d/1597 y en este repositorio ```data/.zip```
 
 Créditos:
 **Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi**. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
