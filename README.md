@@ -6,14 +6,14 @@
 Este proyecto hace uso de algoritmos de Aprendizaje de Máquina No Supervisado para la detección de anomalías en transacciones con tarjetas de crédito. Mediante la detección de patrones inusuales, se pretende identificar actividades que potencialmente estén relacionadas con fraude financiero.
 
 
-### TABLA DE CONTENIDO
+### TABLA DE CONTENIDO - README
 - [DATOS](#datos)
 - [METODOLOGÍA](#metodología)
 - [RESULTADOS](#resultados)
 
 
 ### DATOS
-La fuente de los datos usada en este proyecto se encuentra disponible en https://www.openml.org/d/1597 y en este repositorio ```data/.zip```
+La fuente de los datos usada en este proyecto se encuentra disponible en https://www.openml.org/d/1597 y en este repositorio ```data/creditcard.zip```
 
 Créditos:
 **Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi**. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
@@ -25,13 +25,15 @@ Para más detalles, refiérase al archivo ```data/README.md```
 
 ### METODOLOGÍA
 El proyecto utiliza los siguientes algoritmos de Aprendizaje de Máquina No Supervisado para el modelo de detección de anomalías:
-- Isolation Forest
-- One-Class SVM
+- Isolation Forest (IF)
+- One-Class SVM (OC-SVM)
 
 Para más detalles, refiérase al archivo ```submittals/metodologia.md```.
 
+Los reportes relacionados con la propuesta inicial y con el reporte final estan disponibles la carpeta ```submittal/```.
+
 
 ### RESULTADOS
-El modelo logró una detección de anomalias del ##% con un porcentaje de falsos positivos de tan solo ##%.
+El modelo IF logró una detección de anomalias del 83.11% con un porcentaje de falsos positivos del orden de 4.72%. Para el modelo OC-SVM, se logró una detección de anomalías del 77.70% con un porcentaje de falsos positivos de tan solo el 0.87%.
 
-Los resultados de proyecto se pueden consultar en el archivo ```notebooks/resultados.ipynb```.
+Los resultados de proyecto se pueden consultar en el archivo ```notebooks/MIAD_Uns_ML_Proyecto_FInal_IF_Model.ipynb``` y en ```notebooks/MIAD_Uns_ML_Proyecto_Final_OCSVM.ipynb```.
